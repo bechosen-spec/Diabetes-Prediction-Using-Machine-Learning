@@ -1,2 +1,3 @@
 # Diabetes Prediction Using Machine Learning
-Diabetes prediction using machine learning with python - End to End Project
+It is a system that can predict whether a person has diabetes or not with the help of Machine Learning. This project is done in Python. In this project, we use Support Vector Machine model for the prediction.
+
